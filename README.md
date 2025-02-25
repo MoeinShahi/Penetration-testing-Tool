@@ -1,4 +1,4 @@
-# penTestTool
+# penetration testing
 
 Ethical USE ONLY !!!
 
