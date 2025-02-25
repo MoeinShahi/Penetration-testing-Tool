@@ -16,7 +16,7 @@ cat subdomains.txt | httpx -silent | tee live_subdomains.txt
 
 3.Automatic scan through filterd and live subdomains, checking if they are vulnerable or not !
 ```bash
-subzy run --targets liveSubs.txt
+subzy run --targets live_subdomains.txt
 ```
 
 
